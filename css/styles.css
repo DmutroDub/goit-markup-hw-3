@@ -320,6 +320,7 @@ margin-bottom: 8px;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -339,6 +340,7 @@ margin-bottom: 8px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-item-text {
